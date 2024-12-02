@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1732911949
+::res://::1733176024
 default_bus_layout.tres::AudioBusLayout::135243633377057419::1732909944::0::1::::<><>::
 export_presets.cfg::TextFile::-1::1732911521::0::1::::<><>::
 game_1_0v.tscn::PackedScene::7367090389624757467::1732911536::0::1::::<><>::uid://2xu81wm5aq5g::::res://seens/player.tscn<>res://script/game_manager.gd<>uid://bnlhurylpg38b::::res://asste/sprites/world_tileset.png<>uid://cal4mnroqmftl::::res://seens/platform.tscn<>uid://bjqjt6sxfa0ke::::res://seens/coin.tscn<>uid://c2xcvvw2ek0li::::res://seens/kill_zone.tscn<>uid://n6mtf00sedvu::::res://seens/enemy.tscn<>uid://odnysj7rtycx::::res://asste/Font/Planes_ValMore.ttf
